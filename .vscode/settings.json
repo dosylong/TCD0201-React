@@ -1,0 +1,41 @@
+{
+    "cSpell.words": [
+        "noopener",
+        "noreferrer"
+    ],
+    "cSpell.ignoreWords": [
+        "action",
+        "avatar",
+        "case",
+        "class",
+        "clear",
+        "default",
+        "export",
+        "false",
+        "from",
+        "get",
+        "img",
+        "import",
+        "loading",
+        "name",
+        "payload",
+        "px",
+        "repos",
+        "return",
+        "round",
+        "search",
+        "set",
+        "show",
+        "src",
+        "state",
+        "style",
+        "switch",
+        "true",
+        "type",
+        "types",
+        "url",
+        "user",
+        "users",
+        "width"
+    ]
+}
